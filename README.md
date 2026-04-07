@@ -27,7 +27,23 @@ This app allows users to post listings, browse items, chat with sellers, and man
 
 ## Screenshots
 
-(Add your screenshots here after uploading)
+### Home Screen
+![Home](IMG_3964.png)
+
+### Listing
+![Listing](IMG_3965.png)
+
+### Chat
+![Chat](IMG_3966.png)
+
+### Favorites
+![Favorites](IMG_3967.png)
+
+### Post Listing
+![Post](IMG_3968.png)
+
+### Profile
+![Profile](IMG_3969.png)
 
 ## App Availability
 
